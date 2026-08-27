@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ICON Version="3">
+    <calendar>false</calendar>
+    <dateimage>false</dateimage>
+    <calendartweek>false</calendartweek>
+    <weektextsize>14</weektextsize>
+    <weektextcolor>0</weektextcolor>
+    <weekleftoffset>0</weekleftoffset>
+    <weektopoffset>-300</weektopoffset>
+    <calendardate>true</calendardate>
+    <datetextsize>59</datetextsize>
+    <datetextcolor>5789784</datetextcolor>
+    <dateleftoffset>0</dateleftoffset>
+    <datetopoffset>-10</datetopoffset>
+    <background>calendar_bg.png</background>
+</ICON>
